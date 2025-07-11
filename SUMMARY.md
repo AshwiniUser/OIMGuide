@@ -5,7 +5,7 @@
   * [Download](getting-started/download.md)
   * [System Prerequisites](getting-started/prerequisites.md)
   * [Installation Steps](getting-started/installation.md)
-  * [Logging In](getting-started/loggin-in.md)
+  * [Logging In](getting-started/logging-in.md)
   * [Start/Stop OpsHub Integration Manager](getting-started/start-or-stop-service.md)
 * [🔄 Integrate](integrate/README.md)
   * [Prerequisites](integrate/prerequisites.md)
