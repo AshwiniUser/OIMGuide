@@ -1,21 +1,21 @@
 # Summary
 
-- [🧭 Getting Started]
+- 🧭 Getting Started
   - [Download](getting-started/download.md)
   - [System Prerequisites](getting-started/prerequisites.md)
   - [Installation Steps](getting-started/windows-installation/prerequisites.md)
   - [Logging In](getting-started/logging-in.md)
   - [Start and Stop OpsHub Integration Manager](getting-started/start-or-stop-service.md)
-- [🔄 Integrate]
+- 🔄 Integrate
   - [Prerequisites](integrate/integration-prerequisites.md)
   - [Best Practices](integrate/best-practises.md)
   - [Configure Integration](integrate/configure-integrations.md)
-  - [Integration Setup & Configuration]
+  - Integration Setup & Configuration
       - [Integration Configuration](integrate/integration-configuration.md)
       - [Mapping Configuration](integrate/mapping-configuration.md)
       - [System Configuration](integrate/system-configuration.md)
       - [Excel Upload](integrate/excel-upload.md)
-  - [Synchronization Behavior]
+  - Synchronization Behavior
      - [Source Delete Synchronization](integrate/source-delete-sync.md)
      - ["Entity Type" and/or "Project" Change Synchronization](integrate/entity-movement.md)
      - [Inline Image or File Synchronization](integrate/inline-image-sync-behaviour.md)
