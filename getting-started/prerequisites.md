@@ -68,5 +68,5 @@ For successful installation/upgradation of OpsHub Integration Manager, following
 # Appendix
 
 ## Windows specific configuration
-{% include "../.gitbook/includes/windows-specific-configuration.md" %}
+{% include "../../.gitbook/includes/windows-specific-configuration.md" %}
 
