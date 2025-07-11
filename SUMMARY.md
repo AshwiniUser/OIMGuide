@@ -1,6 +1,6 @@
 # Summary
 
-- [Getting Started](getting-started/download.md)
+- [🧭Getting Started](getting-started/download.md)
   - [Download](getting-started/download.md)
   - [System Prerequisites](getting-started/prerequisites.md)
   - [Installation Steps](getting-started/windows-installation/prerequisites.md)
