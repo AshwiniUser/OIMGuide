@@ -15,7 +15,6 @@
       - [Mapping Configuration](integrate/mapping-configuration.md)
       - [System Configuration](integrate/system-configuration.md)
       - [Excel Upload](integrate/excel-upload.md)
-  - [Logging In](getting-started/logging-in.md)
   - [Synchronization Behavior]
      - [Source Delete Synchronization](integrate/source-delete-sync.md)
      - ["Entity Type" and/or "Project" Change Synchronization](integrate/entity-movement.md)
